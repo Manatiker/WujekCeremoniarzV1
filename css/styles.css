@@ -4611,7 +4611,7 @@ fieldset:disabled .btn {
   }
 
   .navbar-expand-lg .navbar-nav-scroll {
-    overflow: scroll;
+    overflow: visible;
   }
 
   .navbar-expand-lg .navbar-collapse {
