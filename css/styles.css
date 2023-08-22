@@ -13062,3 +13062,7 @@ body {
 .bg-gainsboro {
   background-color: gainsboro;
 }
+
+.video-inside {
+object-fit: cover;
+}
