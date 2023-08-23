@@ -13063,6 +13063,6 @@ body {
   background-color: gainsboro;
 }
 
-.video-inside {
-object-fit: cover;
+video {
+  max-width: 100%;
 }
